@@ -1,0 +1,10 @@
+/* Esta arqivo vai resetar as propriedade de estilo da minha página */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Quando adicionarmos uma margin ou um padding não mude o tamanho do elemento*/
+}
+
+html, body{
+    height: 100%;
+}
